@@ -1,7 +1,9 @@
 # AV-Interactions-City-Traffic
 Low-speed automated shuttles, from EasyMile and Navya, were tested respectively in Montréal, Canada and in Candiac, Canada, in mid and late 2019. Trajectories were extracted from video footage using [TrafficIntelligence](https://bitbucket.org/Nicolas/trafficintelligence).
 
-This repository provides samples of data from trajectories and interactions, captured from both test projects, that were used as part of this submitted [draft presentation](https://polymtlca0-my.sharepoint.com/:b:/g/personal/etienne-2_beauchamp_polymtl_ca/EfqWJnm4OTJIl4rNwG8oCjMBisXtir48LfEU2-1B6sgjsA?e=eHEM2j).
+<img src="imgs/tracking_ex_feature.png"/>
+
+This repository provides samples of data from trajectories and interactions, captured from both test projects, that were used in a [submission for the 2021 TRB Annual Meeting]() and an [article under review for Accident Analysis and Prevention]().
 
 ## Installation
 To get started clone this repository and install the required packages.
@@ -15,7 +17,8 @@ $ pip3 install -r requirements.txt
 ## Usage
 * The database samples are provided in the [data folder]().
 * The [extraction folder]() presents examples on extracting information of interest from trajectories and interactions and storing it in a CSV file.
-* Figures can be obtained similarly to what is presented in the [results folder]().
+* The [code folder]() contains notebooks that were used to produce the results.
+* Figures can be obtained similarly to what is presented in the [imgs folder]().
 
 ## Credits
 ### Authors
