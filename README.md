@@ -15,10 +15,10 @@ $ pip3 install -r requirements.txt
 ```
 
 ## Usage
-* The database samples are provided in the [data folder]().
-* The [extraction folder]() presents examples on extracting information of interest from trajectories and interactions and storing it in a CSV file.
-* The [code folder]() contains notebooks that were used to produce the results.
-* Figures can be obtained similarly to what is presented in the [imgs folder]().
+* The database samples are provided in the [data folder](https://github.com/FinestStone/AV-Interactions-City-Traffic/tree/master/data).
+* The [extraction folder](https://github.com/FinestStone/AV-Interactions-City-Traffic/tree/master/extraction) presents examples on extracting information of interest from trajectories and interactions and storing it in a CSV file.
+* The [code folder](https://github.com/FinestStone/AV-Interactions-City-Traffic/tree/master/code) contains notebooks that were used to produce the results.
+* Figures can be obtained similarly to what is presented in the [imgs folder](https://github.com/FinestStone/AV-Interactions-City-Traffic/tree/master/imgs).
 
 ## Credits
 ### Authors
