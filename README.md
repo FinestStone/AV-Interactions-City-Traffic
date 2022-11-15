@@ -29,4 +29,5 @@ See also the list of [contributors](https://github.com/FinestStone/AV-Interactio
 ### Citations
 To cite this work, please use the following article:
 
+* É. Beauchamp, N. Saunier, and M.S. Cloutier. Study of automated shuttle interactions in city traffic using surrogate measures of safety. Transportation Research Part C: Emerging Technologies, 135:103465, 2022 http://doi.org/10.1016/j.trc.2021.103465
 * É. Beauchamp, N. Saunier and M.-S. Cloutier. Study of Automated Shuttle Interactions in City Traffic Using Surrogate Measures ofSafety. In Transportation Research Board Annual Meeting, 2021
